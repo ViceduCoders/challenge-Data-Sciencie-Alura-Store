@@ -5,9 +5,8 @@ Autor: Victor Asencio
 ## 📝 Resumen del Proyecto
 Este proyecto consiste en un análisis exhaustivo de datos de cuatro tiendas de retail para evaluar su viabilidad financiera y operativa. A través del procesamiento de grandes volúmenes de datos, se identificaron patrones de ventas, niveles de satisfacción del cliente y eficiencias logísticas con el fin de asesorar en la toma de decisiones sobre la continuidad o venta de activos.
 
-## 🎯 El Objetivo
+## 🎯 Objetivo Principal
 El propósito principal es actuar como un **analista de datos** para el Sr. Juan, identificando cuál de sus cuatro tiendas presenta el menor desempeño y recomendando una estrategia de desinversión para optimizar su capital.
-
 
 
 ## 🚀 Objetivos del Challenge
@@ -46,7 +45,7 @@ Los datos fueron obtenidos de los repositorios públicos de Alura Latam:
 | **lat, lon** | Coordenadas geográficas del lugar de compra. |
 
 
-## 🛠️ Metodología y Análisis
+## 🛠️ Análisis del Proyecto
 El análisis se dividió en cinco dimensiones críticas:
 
 1.  **Análisis de Facturación (Ingresos Totales):** Cálculo de ingresos brutos por tienda para determinar el liderazgo de mercado.
@@ -57,7 +56,7 @@ El análisis se dividió en cinco dimensiones críticas:
 
 ---
 
-## 📈 Visualizaciones y Hallazgos Clave
+## 📈 Visualizaciones del Proyecto
 
 ### 💰 1. Análisis de Facturación (Ingresos Totales)
 
@@ -107,13 +106,13 @@ Se detectó que la **Tienda 4** presenta mayores ineficiencias en costos de env�
 
 ---
 
-## ⚙️ Tecnologías y Librerías
+## ⚙️ Tecnologías Utilizadas
 * **Lenguaje:** Python 3.x
 * **Manipulación de Datos:** `Pandas`
 * **Visualización:** `Matplotlib` y `Seaborn`
 * **Entorno:** Google Colab / Jupyter Notebooks
 
-## 🚀 Cómo Replicar el Análisis
+## 🚀 Replicación del Proyecto
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
