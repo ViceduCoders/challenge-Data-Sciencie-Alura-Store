@@ -1,4 +1,4 @@
-# challenge-Data-Sciencie-Alura-Store
+# Challenge-Data-Sciencie-Alura-Store
 Autor: Victor Asencio
 # Análisis de Desempeño y Optimización de Alura Store 🛒📊
 
